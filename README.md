@@ -2,7 +2,7 @@
 ----------------------------------
 Imbasan Port Berbilang Jaluran
 
-Oleh: Mikhail Game Tech / Lina Mikhail
+Oleh: MikaMarius
 
 Nama Kod: PengimnasPort.py
 
@@ -51,7 +51,7 @@ KALI LINUX (2019.3)
 -------------------
 1. Buka Kali Linux. Seperti biasa taip dulu: root@kali:~# sudo apt-get update && apt-get upgrade 
 2. Python3: Pastikan Python3 ada pada Kali. Jika belum ada: root@kali:~# sudo apt-get install python3
-3. Buka https://github.com/linamikhail/pengimbasport pada browser FireFox pada Kali.
+3. Buka https://github.com/MikaMarius/pengimbasport pada browser FireFox pada Kali.
 4. Pada butang CLONE / DOWNLOAD > Download ZIP pada Home.
 5. Klik-kanan dan ekstrak fail pada Home juga. 
 6. Buka Terminal, taipkan: 
