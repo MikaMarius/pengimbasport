@@ -4,7 +4,7 @@ Imbasan Port Berbilang Jaluran
 
 Oleh: MikaMarius
 
-Nama Kod: PengimnasPort.py
+Nama Kod: PengimbasPort.py
 
 Bahasa Pengaturcaraan: PythonTiga (Python3)
 
